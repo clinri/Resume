@@ -15,6 +15,8 @@
 8. Ремонт и обслуживание ПК, сетевого оборудования.
 9. Linux OS
 10. Windows OS
+11. Android SDK
+12. MVVM Architecture
 
 
 
